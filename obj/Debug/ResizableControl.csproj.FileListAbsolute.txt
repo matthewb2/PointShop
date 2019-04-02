@@ -1,0 +1,8 @@
+C:\Users\Administrator\Downloads\ResizableControl\bin\Debug\ResizableControl.exe
+C:\Users\Administrator\Downloads\ResizableControl\bin\Debug\ResizableControl.pdb
+C:\Users\Administrator\Downloads\ResizableControl\obj\Debug\Trestan.Form1.resources
+C:\Users\Administrator\Downloads\ResizableControl\obj\Debug\Trestan.Properties.Resources.resources
+C:\Users\Administrator\Downloads\ResizableControl\obj\Debug\ResizableControl.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\ResizableControl\obj\Debug\ResizableControl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ResizableControl\obj\Debug\ResizableControl.exe
+C:\Users\Administrator\Downloads\ResizableControl\obj\Debug\ResizableControl.pdb
